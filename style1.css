@@ -1,0 +1,87 @@
+body{
+    background-color: #c0c0c0;
+}
+
+.heading1{
+    margin-top: 0px;
+    font-family: 'Rubik Bubbles', cursive;
+    font-weight: 200;
+    background-color:#265b9d;
+    color: whitesmoke;
+    padding: 4px;
+    text-align: center;
+}
+
+p{
+  font-size: large;  
+  text-align: center;
+}
+
+.navbar{
+    margin-top: 10px;
+    word-spacing: 2rem;
+    color: blue;
+    font-size: large;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.container{
+    display: flex;
+    margin-top: 20px;
+}
+
+.overview{
+    width: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+.overview h2{
+    text-align: center;
+    background-color: #6487b7;
+    padding: 4px;
+    color: whitesmoke;
+}
+
+.search{
+ width: 50%;
+}
+
+.search h1{
+    color: whitesmoke;
+    text-align: center;
+    margin-left: 50px;
+    background-color: #6487b7;
+    padding: 4px;
+    width: 40%;
+    font-size: larger;
+    margin-top: 20px;
+}
+
+.search .box{
+    margin-left: 50px;
+    
+}
+
+.search .box input{
+    padding: 10px;
+    text-align: center;
+}
+
+.search .box button{
+    background-color: #265b9d;
+    padding: 8px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: medium;
+    margin-left: 22px;
+    border: #6487b7;
+    cursor: pointer;
+}
+
+
+textarea{
+    margin-left: 50px;
+}
